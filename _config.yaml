@@ -15,7 +15,7 @@ author:
 	bio		: "I am a masters student at the University of Montana"
 	location	: "Missoula, MT"
 
-defauls:
+defaults:
 	# _pages
 	- scope:
 		path: ""
