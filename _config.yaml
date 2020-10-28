@@ -10,10 +10,10 @@ url: "https://amarcozzi.github.io"
 search: true
 logo: "/assets/images/author_avatar.jpg"
 author:
-	name		: "Anthony Albert Marcozzi"
-	avatar		: "/assets/images/author_avatar.jpg"
-	bio		: "I am a masters student at the University of Montana"
-	location	: "Missoula, MT"
+	name: "Anthony Albert Marcozzi"
+	avatar: "/assets/images/author_avatar.jpg"
+	bio: "I am a masters student at the University of Montana"
+	location: "Missoula, MT"
 
 defaults:
 	# _pages
