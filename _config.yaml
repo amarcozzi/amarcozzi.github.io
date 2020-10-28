@@ -20,7 +20,7 @@ defaults:
     - scope:
         path: ""
             type: pages
-            values:
+        values:
             layout: single
             author_profile: true
     # _posts
@@ -38,4 +38,4 @@ defaults:
     paginate_path: /page:num/
 
 include:
-- _pages 
+- _pages
